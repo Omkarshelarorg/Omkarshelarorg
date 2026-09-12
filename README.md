@@ -19,5 +19,6 @@
 
 ---
 
-// ### 📈 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=omkarshelarorg&show_icons=true&theme=radial)
+<!-- ### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radial)
+-->
