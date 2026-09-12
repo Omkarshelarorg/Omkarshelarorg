@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Omkar Shelar 👋
 
-<!--
-**Omkarshelarorg/Omkarshelarorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🎓 **Computer Science / IT Student** passionate about software development and problem-solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+* 📚 **Focus:** Building a strong foundation in computer science and software engineering.
+* 🔭 **Working On:** Personal practice projects and coursework.
+* 🌱 **Learning:** Data Structures & Algorithms, Git/GitHub, and Web Development.
+* 💬 **Ask Me About:** Python basics, HTML/CSS, and programming fundamentals.
+* 📫 **Contact:** [Insert Email or Social Link]
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python • C++ • JavaScript • HTML • CSS
+* **Tools & Platforms:** VS Code • Git • GitHub • Linux
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radial)
